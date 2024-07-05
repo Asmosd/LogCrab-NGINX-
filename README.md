@@ -12,6 +12,8 @@ LogCrab is a Windows Forms application that sets up the running of a ruby script
 
 ## Requirements
 - Windows 8 or later
+- Ruby Devkit installed
+- Bundler (it comes with Ruby Devkit, so it should be preinstalled)
 
 ## Installation
 1. Download the latest release.
