@@ -115,7 +115,7 @@ namespace LogCrab_NGINX_
         {
             Process.Start(new ProcessStartInfo
             {
-                FileName = "https://github.com/Asmosd/LogCrab-NGINX-/issues",
+                FileName = "https://github.com/Asmosd/LogCrab-NGINX-",
                 UseShellExecute = true
             });
         }
@@ -124,7 +124,7 @@ namespace LogCrab_NGINX_
         {
             Process.Start(new ProcessStartInfo
             {
-                FileName = "https://github.com/Asmosd/LogCrab-NGINX-",
+                FileName = "https://github.com/Asmosd/LogCrab-NGINX-/issues",
                 UseShellExecute = true
             });
         }
